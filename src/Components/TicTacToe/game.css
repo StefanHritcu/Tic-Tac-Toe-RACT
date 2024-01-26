@@ -1,0 +1,18 @@
+.img{
+    width: 80px;
+    height: 80px;
+    margin: auto;
+    margin-top: 10px;
+}
+.win_img{
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+@media (max-width:429px){
+    .container{
+       
+    }
+}
